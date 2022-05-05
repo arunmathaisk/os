@@ -1,0 +1,14 @@
+List of Programs for OS Practical Exam
+
+1. Write a program create processes in Linux using fork () system call.
+2. Write a program create processes in Linux using exec*() system call.
+3. Write a program to implement interprocess communication using pipe ().
+4. Write a program to implement interprocess communication using signal().
+5. Write a program to demonstrate dup system calls in linux.
+6. Write a program to implement interprocess communication using shared memory (SHM) in linux.
+7. Write a program to demonstrate Semaphores in Linux.
+8. Program On Threading.
+9. Write a program to implement ANY ONE process scheduling algorithm..
+10. Write a program to demonstrate paging.
+11. Write a program to demonstrate ANY ONE disk scheduling algorithm.
+12. Write a program to demonstrate ANY ONE file allocation method.
